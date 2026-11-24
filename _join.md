@@ -4,7 +4,14 @@
 
 :calendar: [Join a hackathon or community meeting](https://geojupyter.org/calendar)!
 
-:test_tube: [Try JupyterGIS](https://jupytergis.readthedocs.io/)! Where does it meet your needs (or not)?
+<a href="https://notebook.link/github/geojupyter/jupytergis">
+  <img
+    src="assets/images/notebook-link-logo.svg"
+    alt="Notebook.link"
+    class="notebook-link-logo"
+  />
+  Try JupyterGIS directly in your browser thanks to Notebook.link!
+</a>
 
 :gift: [Report bugs, request features](https://github.com/geojupyter/jupytergis/issues)!
 [Open Pull Requests](https://github.com/geojupyter/jupytergis)!
