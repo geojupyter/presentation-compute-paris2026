@@ -252,7 +252,7 @@ For a tight viz-analysis feedback loop, we might want to compute on overviews.
 :::
 
 
-## JupyterGIS with OpenEO (WIP)
+## JupyterGIS with OpenEO
 
 Another approach: server-side execution!
 
