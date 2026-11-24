@@ -1,7 +1,7 @@
 services:
   jupyterlab:
     command: "jupyter lab --ip=0.0.0.0"
-    image: "geojupyter-presentation-cng2026:dev"
+    image: "geojupyter-presentation-compute-paris2026:dev"
     build:
       context: "."
     ports:

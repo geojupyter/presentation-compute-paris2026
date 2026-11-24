@@ -1,3 +1,3 @@
-Demonstration for Jupytergis at CNG forum 2026
+Demonstration for Jupytergis at Compute! Paris 2026
 
 TODO: How to run?

@@ -3,11 +3,11 @@ project:
 
 
 website:
-  title: "GeoJupyter @ CNG2026"
-  site-url: "https://geojupyter.github.io/presentation-cng2026"
+  title: "JupyterGIS @ Compute! Paris 2026"
+  site-url: "https://geojupyter.github.io/presentation-compute-paris2026"
   favicon: "assets/images/logo.png"
 
-  repo-url: &repo-url "https://github.com/geojupyter/presentation-cng2026"
+  repo-url: &repo-url "https://github.com/geojupyter/presentation-compute-paris2026"
   repo-actions: ["edit", "issue"]
 
   # HACK: Quarto previews don't show drafts as expected. This will cause drafts

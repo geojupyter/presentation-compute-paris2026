@@ -1,5 +1,5 @@
 ---
-title: "[GeoJupyter](https://geojupyter.org) @ [CNG 2026](https://events.geojupyter.org/conferences/2026-cng)"
+title: "[GeoJupyter](https://geojupyter.org) @ [Compute! Paris 2026](https://compute.events/paris2026/)"
 format:
   html:
     toc: false

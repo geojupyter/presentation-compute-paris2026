@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: >-
   If you use this software, please cite it using the metadata from this file.
 
-title: "GeoJupyter @ CNG26"  # TODO: Real title
-url: "https://geojupyter.github.io/presentation-cng2026/"
-repository-code: "https://github.com/geojupyter/presentation-cng2026"
+title: "JupyterGIS @ Compute! Paris 2026"  # TODO: Real title
+url: "https://geojupyter.github.io/presentation-compute-paris2026/"
+repository-code: "https://github.com/geojupyter/presentation-compute-paris2026"
 # doi: "TODO"
 abstract: >-
-  A presentation about GeoJupyter given at Cloud Native Geospatial (CNG) Conference 2026.
+  A presentation about GeoJupyter given at Compute! Paris 2026.
 
 # type: "presentation"
 license: "BSD-3-Clause"
